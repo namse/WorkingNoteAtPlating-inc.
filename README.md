@@ -1,4 +1,9 @@
 # TODO
+
+Code State 발표 준비
+
+[원모먼트용 서버 개발](./ONE_MOMENT_DELIVERY_SYSTEM.md)
+
 구인공고
 
 커뮤니케이션 시스템
@@ -59,6 +64,8 @@ redis 기반의 세션 저장소
 - 클라가 마무리 하는 식으로.
 
 # Done
+
+[송파구 배달](./SONG_PA_DELIVERY.md)
 
 Bigboss
 - 푸드플라이 결제
