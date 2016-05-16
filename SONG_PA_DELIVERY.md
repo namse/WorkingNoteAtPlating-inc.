@@ -1,10 +1,10 @@
 # 송파구 배달 작전
 
 서버 API 수정
-1. cart_info
+1. cart_info (FINISH)
 2. place_order
 
-### cart_info
+### cart_info (FINISH)
 클라이언트에서 장바구니의 information을 요청. user_idx를 보냄.
 
 작업해야 하는 부분
@@ -17,8 +17,9 @@
   - 3시 이후인 경우
     - 비어있는 배열을 보내줌.
     - message에 '송파구는 3시 이전에만 예약 가능하다'고 메시지 담아서 전달.
+4. 주문이 마감된 경우 '금일 주문이 마감되었습니다' 메시지 전달
 
-### place_order
+### place_order (FINISH)
 클라이언트에서 장바구니에 담긴 요리들을 주문할 때 요청. 각종 파라메터 보냄.
 
 작업해야 하는 부분
