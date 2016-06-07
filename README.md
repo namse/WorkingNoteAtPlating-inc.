@@ -1,5 +1,7 @@
 # TODO
 
+### [새 멤버 셋팅 도와주기](./NEW_MEMBER.md)
+
 ### [실시간 배송 시스템 설계](./REAL_TIME_DELIVERY.md)
 
 ### [아이엠포트 연동](./IAMPORT.md)
